@@ -1,1 +1,1 @@
-Hello ini adalah tugas project bersama dari kelompok 6
+tugas ini adalah tugas kolabprasi vcs github
